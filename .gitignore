@@ -1,3 +1,6 @@
 *.c
 *.exe
 *.class
+bin/
+build/
+dist/
