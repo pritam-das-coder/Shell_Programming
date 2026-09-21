@@ -4,3 +4,9 @@
 bin/
 build/
 dist/
+# Ignore all files starting with q or Q
+q*
+Q*
+
+# Exception: Do NOT ignore .sh files
+!*.sh
